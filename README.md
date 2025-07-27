@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Caroline!
+
+## About Me 
+
+- Currently studying Computer Science x Film at Vassar College - I love blending creativity, digital media, and tech!
+- Experience across industry, research, and mentorship - I love solving problems and teaching others!
+- Interested in machine learning, VR, and distributed databases - I love learning new tech!
+
+
+
 
 <!--
 **CaroAK/CaroAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
