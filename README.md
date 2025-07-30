@@ -5,9 +5,9 @@
 
 ## About Me 
 
-- Currently studying Computer Science x Film at Vassar College - I love blending creativity, digital media, and tech!
-- Experience across industry, research, and mentorship - I love solving problems and teaching others!
-- Interested in machine learning, VR, and distributed databases - I love learning new tech!
+- Currently studying Computer Science x Film at Vassar College
+- Experience across industry, research, and mentorship
+- Interested in machine learning, VR, and distributed databases
 
 
 ## 🛠 &nbsp;Tech Stack
