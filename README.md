@@ -7,7 +7,8 @@
 
 - Currently studying Computer Science x Film at Vassar College
 - Experience across industry, research, and mentorship
-- Interested in machine learning, VR, and distributed databases
+- Seeking Software Engineering roles
+- Also interested in machine learning, VR, and distributed databases
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -28,7 +29,21 @@
 
 - 🎮 &nbsp;  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
-Check out my pinned projects!
+## Key Projects
+
+- **LunchBox: The Social Network For Food Lovers**
+  - Android mobile app for discovering and sharing restaurant experiences
+  - Java, Firebase, XML
+  - Check out [where the project is now](https://www.thelunchboxapp.com)!
+- **Nutrition Education VR Game**
+  - Interactive buffet VR game for promoting healthy eating habits and nutrition awareness
+  - Unity3D, C#
+  - Developmed for research in [ACM ISS 2024](https://dl.acm.org/doi/10.1145/3696762.3698057)!
+- **Television Ratings Study**
+  - Applied machine learning to explore correlations between IMDb ratings and contributing factors
+  - R, Python, Scikit-learn, Pandas, Matplotlib
+
+Check out my pinned projects for more!
 
 <!--
 **CaroAK/CaroAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
