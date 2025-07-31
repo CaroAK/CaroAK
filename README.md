@@ -42,6 +42,7 @@
 - **Television Ratings Study**
   - Applied machine learning to explore correlations between IMDb ratings and contributing factors
   - R, Python, Scikit-learn, Pandas, Matplotlib
+  - Look at my Break Through Tech portfolio for more data analyses!
 
 Check out my pinned projects for more!
 
